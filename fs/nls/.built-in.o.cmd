@@ -1,0 +1,1 @@
+cmd_fs/nls/built-in.o :=  /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o fs/nls/built-in.o fs/nls/nls_base.o fs/nls/nls_cp437.o fs/nls/nls_ascii.o fs/nls/nls_iso8859-1.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/pmem_kernel_test.ko := /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL -r  -T /home/peter/Kernel/R800x/2.3.3/kernel/scripts/module-common.lds --build-id -o drivers/misc/pmem_kernel_test.ko drivers/misc/pmem_kernel_test.o drivers/misc/pmem_kernel_test.mod.o

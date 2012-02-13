@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o drivers/serial/built-in.o drivers/serial/serial_core.o drivers/serial/msm_serial.o drivers/serial/msm_serial_hs.o drivers/serial/bcm_bt_lpm.o 

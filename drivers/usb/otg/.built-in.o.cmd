@@ -1,0 +1,1 @@
+cmd_drivers/usb/otg/built-in.o :=  /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o drivers/usb/otg/built-in.o drivers/usb/otg/otg.o drivers/usb/otg/otg_event.o drivers/usb/otg/msm72k_otg.o 

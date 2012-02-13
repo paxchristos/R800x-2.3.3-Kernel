@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.o :=  /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o drivers/i2c/busses/built-in.o drivers/i2c/busses/i2c-msm.o drivers/i2c/busses/i2c-qup.o drivers/i2c/busses/i2c-ssbi.o 

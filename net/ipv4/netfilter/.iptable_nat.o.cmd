@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/iptable_nat.o := /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o net/ipv4/netfilter/iptable_nat.o net/ipv4/netfilter/nf_nat_rule.o net/ipv4/netfilter/nf_nat_standalone.o 

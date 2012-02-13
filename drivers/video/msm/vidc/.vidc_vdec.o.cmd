@@ -1,0 +1,1 @@
+cmd_drivers/video/msm/vidc/vidc_vdec.o := /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o drivers/video/msm/vidc/vidc_vdec.o drivers/video/msm/vidc/common/dec/vdec.o 

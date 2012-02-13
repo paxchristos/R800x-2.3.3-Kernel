@@ -1,0 +1,1 @@
+cmd_sound/soc/msm/built-in.o :=  /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o sound/soc/msm/built-in.o sound/soc/msm/snd-soc-msm7kv2-dai.o sound/soc/msm/snd-soc-msmv2.o sound/soc/msm/snd-soc-msm7kv2.o 

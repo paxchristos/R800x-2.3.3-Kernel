@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=  /home/peter/Downloads/android-ndk-r5b/toolchains/arm-eabi-4.4.0/prebuilt/linux-x86/bin/arm-eabi-ld -EL    -r -o drivers/mfd/built-in.o drivers/mfd/marimba-codec.o drivers/mfd/marimba-core.o drivers/mfd/marimba-tsadc.o drivers/mfd/tps65023.o drivers/mfd/msm-adie-codec.o drivers/mfd/mfd-core.o drivers/mfd/pmic8058.o 
